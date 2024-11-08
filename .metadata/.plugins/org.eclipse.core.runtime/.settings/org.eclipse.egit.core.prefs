@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\SmallShops\\Back\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\SmallShops\\Back\\.git;
+GitRepositoriesView.GitDirectories=D\:\\Capstone Project\\CapstoneBackend\\.git;D\:\\SmallShops\\Back\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\SmallShops\\Back\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

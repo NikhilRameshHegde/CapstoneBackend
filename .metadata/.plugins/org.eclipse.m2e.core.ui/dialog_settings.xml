@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Capstone Project\CapstoneBackend\Order_Service"/>
+			<item value="D:\Capstone Project\CapstoneBackend\Gateway"/>
+			<item value="D:\Capstone Project\CapstoneBackend\CustomerService"/>
+			<item value="D:\Capstone Project\CapstoneBackend\Product_Service"/>
+			<item value="D:\Capstone Project\CapstoneBackend\UserService"/>
+			<item value="D:\Capstone Project\CapstoneBackend\EurekaServer"/>
 			<item value="D:\SmallShops\Back\vendorService"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -16,5 +22,29 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
