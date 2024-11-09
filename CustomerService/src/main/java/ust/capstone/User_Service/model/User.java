@@ -17,12 +17,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private String id;
-    private String username;
-    private String password;
-    private String email;
-    private String phone;
-    private String address;
+    
 
     public User() {
     }
