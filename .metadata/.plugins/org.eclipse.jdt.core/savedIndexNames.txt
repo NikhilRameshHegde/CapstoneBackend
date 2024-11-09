@@ -6,7 +6,6 @@ INDEX VERSION 1.134+D:\Capstone Public\CapstoneBackend\.metadata\.plugins\org.ec
 371999501.index
 1670973990.index
 2677735438.index
-3120624924.index
 590337406.index
 2429526362.index
 1034457128.index
